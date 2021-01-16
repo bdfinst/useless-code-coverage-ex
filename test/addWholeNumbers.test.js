@@ -1,5 +1,5 @@
 const expect = require("chai").expect;
-const addWholeNumbers = require("./addWholeNumbers");
+const addWholeNumbers = require("../addWholeNumbers");
 
 describe("Adding 2 whole numbers", () => {
   it("should return a number if both numbers are whole numbers", () => {
